@@ -5,7 +5,7 @@ Free extractor for digitally signed documents (`.p7m`) for Windows.
 Copyright (C) 2023-2026 Filippo Forlani.  
 Developed by Filippo Forlani with SGAI R&D Team - [www.sgai.net](https://www.sgai.net)
 
-[Download SGAIMassivep7mExtractor.exe](dist/SGAIMassivep7mExtractor.exe)
+[Download SGAIMassivep7mExtractor.exe](https://raw.githubusercontent.com/FelixITA/SGAIMassivep7mExtractor/main/dist/SGAIMassivep7mExtractor.exe)
 
 Windows 7 / 10 / 11 - Freeware - No installation
 
@@ -22,7 +22,7 @@ Extracts in one go the original document (PDF, XML, Italian e-invoices, etc.) fr
 
 ## How to use
 
-1. Download [SGAIMassivep7mExtractor.exe](dist/SGAIMassivep7mExtractor.exe).
+1. Download [SGAIMassivep7mExtractor.exe](https://raw.githubusercontent.com/FelixITA/SGAIMassivep7mExtractor/main/dist/SGAIMassivep7mExtractor.exe).
 2. Copy it to your **Desktop**.
 3. Drag one or more `.p7m` files, or a folder, onto the SGAI icon.
 4. Press **ENTER** to start the extraction.
