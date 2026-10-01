@@ -1,0 +1,125 @@
+SGAI Massive p7m Extractor - FREEWARE LICENCE AGREEMENT
+=======================================================
+
+Copyright (C) 2023-2026 Filippo Forlani. All rights reserved.
+Author: Filippo Forlani <filfor@gmail.com>
+Distributed by SGAI S.r.l. under licence from the author.
+
+This software (the "Software") is a creative work protected by Italian
+copyright law (Law no. 633 of 22 April 1941, as amended) and by
+international treaties. The Software is NOT open source and is NOT in the
+public domain: it is licensed, not sold.
+
+0. OWNERSHIP AND DISTRIBUTION
+   The author and sole owner of all copyright, moral rights and economic
+   exploitation rights in the Software is Filippo Forlani (the "Owner").
+   SGAI S.r.l. is authorised by the Owner, under a separate agreement, to
+   distribute the Software free of charge and to mark it with its own name
+   and brand "SGAI" for promotional purposes. This authorisation does not
+   transfer to SGAI S.r.l. ownership of the Software, of its source code or
+   of any economic exploitation right, nor the right to grant third parties
+   any licence beyond this one.
+   The Owner may at any time, within the terms of the agreement with
+   SGAI S.r.l., revoke or not renew this authorisation, or make it subject
+   to payment of a fee. Once the authorisation ends, SGAI S.r.l. may no
+   longer distribute the Software or mark it with its name, and the Owner
+   may distribute it directly, under another name or through other parties.
+   The name and brand "SGAI" belong to SGAI S.r.l.; this licence grants the
+   user no rights in them.
+
+1. GRANT OF USE
+   The Owner grants the user, free of charge, a non-exclusive,
+   non-transferable and revocable licence to install and use the Software
+   for personal or professional purposes, including within companies and
+   organisations, without any fee.
+
+2. REDISTRIBUTION
+   The Software may be copied and distributed to third parties only free of
+   charge, complete and unmodified, together with this licence file. Asking
+   for any fee, direct or indirect, for its distribution is forbidden.
+
+3. RESTRICTIONS
+   Unless expressly authorised in writing by the Owner, it is forbidden to:
+   a) sell, rent, sublicense or otherwise commercialise the Software, in
+      whole or in part, in any form;
+   b) include the Software in commercial products, packages or services
+      (including online services or bundles);
+   c) modify, translate, decompile or disassemble the Software, within the
+      limits allowed by articles 64-ter and 64-quater of Law 633/1941;
+   d) remove or alter the copyright and authorship notices, the version
+      information of the executable, the attribution notices shown by the
+      program or this text (articles 20 et seq. of Law 633/1941 - moral
+      rights of the author).
+
+4. RESERVED RIGHTS
+   All rights not expressly granted are reserved to the Owner, who retains
+   exclusively every economic exploitation right in the Software, including
+   the right to commercialise it, to distribute paid versions or versions
+   under different licences, and to change at any time the licence terms
+   of future versions.
+
+5. DISCLAIMER OF WARRANTY
+   The Software is provided free of charge "AS IS" and "AS AVAILABLE",
+   without warranties of any kind, express or implied, including, by way of
+   example, warranties of operation, absence of errors, accuracy or
+   completeness of results, merchantability, fitness for a particular
+   purpose and non-infringement of third-party rights.
+   The Software extracts the document contained in signed files (.p7m) but
+   does NOT verify the validity of the digital signature, of the
+   certificate or the integrity of the document, and does NOT give the
+   extracted file any legal, evidential or tax value: the document with
+   legal value remains the original signed file.
+   There is no obligation to provide support, maintenance, updates or bug
+   fixes.
+
+6. EXCLUSION AND LIMITATION OF LIABILITY
+   The user uses the Software under their own sole responsibility and at
+   their own risk. It is the user's responsibility to check the extracted
+   documents, keep the signed originals, back up their data and comply with
+   the applicable legal obligations (for example on electronic invoicing,
+   document retention and personal data protection).
+   To the maximum extent permitted by law (article 1229 of the Italian
+   Civil Code), neither the Owner nor SGAI S.r.l. as distributor shall be
+   liable for damages of any kind, direct or indirect, incidental or
+   consequential, including, by way of example, loss, alteration or
+   overwriting of data or documents, business interruption, loss of
+   profit, penalties or third-party claims, arising from the use, misuse or
+   inability to use the Software or from the results obtained, even if
+   advised of the possibility of such damages. Only cases of wilful
+   misconduct or gross negligence are excepted, where liability cannot be
+   excluded by law.
+   The user agrees to hold the Owner and SGAI S.r.l. harmless from any
+   third-party claim arising from use of the Software in breach of this
+   licence or of the law.
+
+7. PRIVACY - NO DATA COLLECTION
+   Using the Software requires no registration, activation, account or
+   disclosure of personal data. The Software does not collect, store,
+   transmit or share data of any kind, whether about the user, the use of
+   the program or the content of the documents processed:
+   - it makes no network connections and contains no telemetry, usage
+     statistics, online licence checks or automatic updates;
+   - it creates no log files;
+   - it reads only the files specified by the user and writes only the
+     extracted documents to the output folder;
+   - it changes the Windows registry (current user only) solely on explicit
+     request with the --register / --unregister options.
+   Neither the author nor SGAI S.r.l. receives any information from the use
+   of the Software. Any data exchanged with the author or with SGAI S.r.l.
+   by other means (e.g. support emails) is processed by the recipient in
+   accordance with applicable law (Regulation (EU) 2016/679 - GDPR).
+
+8. GOVERNING LAW
+   This licence is governed by Italian law.
+
+For permissions, commercial licences or reports: filfor@gmail.com
+
+
+THIRD-PARTY COMPONENTS
+======================
+
+- Embarcadero Delphi Run-Time Library (RTL)
+  The Software is built with Embarcadero Delphi. The parts of the RTL
+  included in the executable are distributed under the terms of the
+  Embarcadero RAD Studio / Delphi licence, which allows their
+  redistribution in compiled form.
